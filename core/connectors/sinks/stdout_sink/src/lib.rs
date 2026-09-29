@@ -102,3 +102,5 @@ impl Sink for StdoutSink {
         Ok(())
     }
 }
+
+// Validation probe for the Cargo-Rail scoped-planning check; not for merge.

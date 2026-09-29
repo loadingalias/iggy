@@ -27,3 +27,5 @@ pub mod records;
 pub mod server;
 
 pub use server::{GatewayConfig, KafkaGateway};
+
+// Validation probe for the Cargo-Rail scoped-planning check; not for merge.
